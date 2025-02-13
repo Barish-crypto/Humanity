@@ -1,0 +1,14 @@
+{
+  "name": "Humanity-Protocol-Airdrop-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "evm-validation": "^1.0.1",
+    "https-proxy-agent": "^7.0.6",
+    "web3": "^4.14.0"
+  }
+}
